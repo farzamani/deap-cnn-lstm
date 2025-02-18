@@ -1,5 +1,7 @@
 # Emotion Recognition and Classification based on DEAP dataset
 
+*DISCLAIMER: I no longer have access to the dataset, and this repository is no longer maintained.*
+
 This repo contains jupyter notebook file (.ipnyb) for the emotion recognition task.
 
 ### Background
